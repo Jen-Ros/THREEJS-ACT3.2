@@ -32,7 +32,7 @@ parameters.branches = 3
 parameters.spin = 1
 parameters.randomness = 0.2
 parameters.randomnessPower = 3
-parameters.insideColor = '#070101'
+parameters.insideColor = '#720101'
 parameters.outsideColor = '#030337'
 
 
