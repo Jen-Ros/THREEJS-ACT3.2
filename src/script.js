@@ -32,8 +32,8 @@ parameters.branches = 3
 parameters.spin = 1
 parameters.randomness = 0.2
 parameters.randomnessPower = 3
-parameters.insideColor = '#ffccaa'
-parameters.outsideColor = '#1b1b3a'
+parameters.insideColor = '#070101'
+parameters.outsideColor = '#030337'
 
 
 let geometry = null
